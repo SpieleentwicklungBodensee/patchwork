@@ -11,6 +11,7 @@ function love.load()
 end
 
 function love.update(dt)
+  lurker.update()
 end
 
 function love.draw()

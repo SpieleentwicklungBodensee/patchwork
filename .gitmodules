@@ -4,3 +4,9 @@
 [submodule "libs/cargo"]
 	path = libs/cargo
 	url = git@github.com:bjornbytes/cargo.git
+[submodule "libs/lume"]
+	path = libs/lume
+	url = git@github.com:rxi/lume.git
+[submodule "libs/lurker"]
+	path = libs/lurker
+	url = git@github.com:SpieleentwicklungBodensee/lurker.git
