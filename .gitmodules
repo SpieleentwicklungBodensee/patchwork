@@ -10,3 +10,6 @@
 [submodule "libs/lurker"]
 	path = libs/lurker
 	url = git@github.com:SpieleentwicklungBodensee/lurker.git
+[submodule "libs/anim8"]
+	path = libs/anim8
+	url = git@github.com:kikito/anim8.git
