@@ -10,3 +10,6 @@
 [submodule "libs/lurker"]
 	path = libs/lurker
 	url = git@github.com:SpieleentwicklungBodensee/lurker.git
+[submodule "libs/classic"]
+	path = libs/classic
+	url = git@github.com:rxi/classic.git
