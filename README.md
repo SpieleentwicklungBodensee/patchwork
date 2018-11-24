@@ -14,5 +14,5 @@ love .
 ```
 
 # Add level
-Copy states/example.lua to states/yourLevelName.lua
-Add `yourLevelName = require("states/yourLevelName.lua"),` to states/states/lua
+* Copy states/example.lua to states/yourLevelName.lua
+* Add `yourLevelName = require("states/yourLevelName.lua"),` to states/states/lua
