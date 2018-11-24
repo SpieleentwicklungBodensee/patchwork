@@ -7,7 +7,7 @@ function love.load()
   end
 
   Gamestate.registerEvents(callbacks)  
-  Gamestate.switch(States.welcome)
+  Gamestate.switch(States.cloudsdale)
 end
 
 function love.update(dt)
